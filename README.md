@@ -79,9 +79,3 @@ This innovation also paves the way for future research into **Artificial General
 - **Scientific Research and Data Analysis**: Solving complex mathematical problems and making deep logical inferences autonomously.
 
 ---
-
-## **How to Use**
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/GMI.git
