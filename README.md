@@ -1,5 +1,4 @@
 # GMI-IA
-# **General Mathematical Intelligence
 # **General Mathematical Intelligence (GMI)**
 
 ## **Description**
