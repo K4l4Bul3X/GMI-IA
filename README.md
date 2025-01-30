@@ -1,26 +1,26 @@
-Here’s the README for the SOMA (Semantic Optimization and Memory Architecture) project in English:
+Here’s the README for the SOM4 (Semantic Optimization and Memory Architecture) project:
 
-SOMA: Semantic Optimization and Memory Architecture
+SOM4: Semantic Optimization and Memory Architecture
 
-SOMA is a revolutionary artificial intelligence based on pure mathematics and geometric theory, designed to optimize communication, understanding, and interaction with language in an innovative and efficient way. Unlike traditional AI systems that rely on explicit words or grammar rules, SOMA uses a combination of differential geometry, nonlinear dynamics, semantic optimization, and fractional memory to create a completely new language architecture.
+SOM4 is a revolutionary artificial intelligence based on pure mathematics and geometric theory, designed to optimize communication, understanding, and interaction with language in an innovative and efficient way. Unlike traditional AI systems that rely on explicit words or grammar rules, SOM4 uses a combination of differential geometry, nonlinear dynamics, semantic optimization, and fractional memory to create a completely new language architecture.
 
 Key Features
 	•	Advanced Differential Geometry:
 Utilizes Riemannian manifolds and SPD matrices to model semantic space, allowing concepts and relations to be represented as continuous geometric objects.
 	•	Fractional Memory and Context Persistence:
-Memory is handled by fractional derivatives (Caputo model), enabling SOMA to maintain long-term context, which is essential for more complex dialogues and emotional interactions.
+Memory is handled by fractional derivatives (Caputo model), enabling SOM4 to maintain long-term context, which is essential for more complex dialogues and emotional interactions.
 	•	Semantic Optimization:
 Applies an innovative optimization approach to generate more precise and relevant responses, continuously adjusting system variables to minimize free energy and maximize semantic clarity.
 	•	Semantic Flow Dynamics:
 Uses a Hamiltonian approach to preserve the “energy” of meaning, ensuring that semantic transformations are consistent and efficient over time.
 	•	Cultural and Emotional Integration:
-SOMA adapts its responses based on the cultural and emotional context of the user, making interactions more human and personalized.
+SOM4 adapts its responses based on the cultural and emotional context of the user, making interactions more human and personalized.
 	•	Complex Problem Solving:
 Through techniques like algebraic homotopy, SOMA can efficiently solve complex mathematical equations and logical problems.
 
 System Architecture
 
-SOMA is based on a modular architecture consisting of several processing layers:
+SOM4 is based on a modular architecture consisting of several processing layers:
 	1.	Layer 0++: Quantum-Relativistic Embedding
 	•	Transforms text into continuous mathematical representations using transforms and projections onto the semantic space.
 	2.	Layer 1++: Non-Abelian Tensor Dynamics
@@ -38,7 +38,7 @@ SOMA is based on a modular architecture consisting of several processing layers:
 
 Example Usage
 
-hyper_ai = SOMA()
+hyper_ai = SOM4()
 
 # Complex mathematical query
 equation = "x^3 - 2x^2 + 5x - 10 = 0"
@@ -99,4 +99,4 @@ License
 
 SOMA is licensed under the MIT License.
 
-This README captures the essence of SOMA, its features, and how it works. It provides a solid foundation for anyone looking to understand, contribute, or use the system.
+This README captures the essence of SOM4, its features, and how it works. It provides a solid foundation for anyone looking to understand, contribute, or use the system.
